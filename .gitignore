@@ -1,0 +1,23 @@
+# Environments
+env
+venv
+.env
+.venv
+
+
+#idea folder
+.idea/
+venv/### Python template
+
+
+# credentials
+src/api/credentials.json
+
+# keys
+jwt
+jwt.pub
+/src/node_modules/
+node_modules
+yarn.lock
+# Django stuff:
+db.sqlite3
